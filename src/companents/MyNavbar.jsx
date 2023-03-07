@@ -8,6 +8,7 @@ export default function MyNavbar() {
     return (
         <nav className="navbar navbar-expand-lg  navbar-dark">
             <div className="container-fluid">
+                <p>Shakalad</p>
                 <p className="navbar-brand">
                     <img src={NavImg} alt="" />
                 </p>
