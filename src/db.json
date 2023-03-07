@@ -1,0 +1,658 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "Muhammadamin",
+      "surname": "Rahmatjonov",
+      "age": 16
+    },
+    {
+      "id": 2,
+      "name": "Abdushukur",
+      "surname": "Urinboev",
+      "age": 40
+    },
+    {
+      "id": 3,
+      "name": "Fradavs",
+      "surname": "Isroiljonov",
+      "age": 13
+    },
+    {
+      "id": 4,
+      "name": "Shakalad",
+      "surname": "Haydaraliyev",
+      "age": 19
+    },
+    {
+      "id": 5,
+      "name": "Hojaka",
+      "surname": "Alijonov",
+      "age": 16
+    },
+    {
+      "id": 6,
+      "name": "Hojona",
+      "surname": "Xasanova",
+      "age": 16
+    },
+    {
+      "id": 7,
+      "name": "Tina",
+      "surname": "Oripova",
+      "age": 16
+    },
+    {
+      "id": 8,
+      "name": "Shagirt",
+      "surname": "Qo'chqorov",
+      "age": 15
+    }
+  ],
+  "car": [
+    {
+      "id": 1,
+      "make_id": "Dodge",
+      "model": "Journey",
+      "year": 2009,
+      "vin": "WAURFAFR5BA409381",
+      "color": "Goldenrod",
+      "price": 93882.75,
+      "city": "Sacramento",
+      "state": "California",
+      "postal": 95833,
+      "longitude": -121.5053,
+      "latitude": 38.6157,
+      "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+      "seller": "lneesham0",
+      "seller-name": "Lissie Neesham",
+      "image": "https://images.unsplash.com/photo-1520116468816-95b69f847357?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg1.jpg"
+    },
+    {
+      "id": 2,
+      "make_id": "Lincoln",
+      "model": "Continental Mark VII",
+      "year": 1990,
+      "vin": "WBA3D3C56EK000457",
+      "color": "Indigo",
+      "price": 73327.66,
+      "city": "Dallas",
+      "state": "Texas",
+      "postal": 75310,
+      "longitude": -96.7776,
+      "latitude": 32.7673,
+      "description": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo.",
+      "seller": "obreton1",
+      "seller-name": "Obidiah Breton",
+      "image": "https://images.unsplash.com/photo-1533903179229-783a50d25dd7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg2.jpg"
+    },
+    {
+      "id": 3,
+      "make_id": "Pontiac",
+      "model": "Torrent",
+      "year": 2008,
+      "vin": "1G4HP54KX54034031",
+      "color": "Violet",
+      "price": 140858.52,
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "postal": 87201,
+      "longitude": -106.6729,
+      "latitude": 35.0443,
+      "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "seller": "movell2",
+      "seller-name": "Missy Ovell",
+      "image": "https://images.unsplash.com/photo-1537294620176-089fc97ed2eb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg3.jpg"
+    },
+    {
+      "id": 4,
+      "make_id": "Ford",
+      "model": "Falcon",
+      "year": 1966,
+      "vin": "JM1NC2MFXD0382356",
+      "color": "Green",
+      "price": 146483,
+      "city": "Dayton",
+      "state": "Ohio",
+      "postal": 45454,
+      "longitude": -84.2686,
+      "latitude": 39.7505,
+      "description": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "seller": "rstrickland3",
+      "seller-name": "Rosamund Strickland",
+      "image": "https://images.unsplash.com/photo-1528659874595-6e92d957afcd?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg4.jpg"
+    },
+    {
+      "id": 5,
+      "make_id": "Mercedes-Benz",
+      "model": "CL-Class",
+      "year": 2002,
+      "vin": "JA32X8HWXAU202509",
+      "color": "Purple",
+      "price": 116591.3,
+      "city": "Warren",
+      "state": "Ohio",
+      "postal": 44485,
+      "longitude": -80.8441,
+      "latitude": 41.2405,
+      "description": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "seller": "amatthessen4",
+      "seller-name": "Alphard Matthessen",
+      "image": "https://images.unsplash.com/photo-1511045709180-5907d822a33e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg5.jpg"
+    },
+    {
+      "id": 6,
+      "make_id": "Toyota",
+      "model": "Highlander",
+      "year": 2009,
+      "vin": "WBADN53413G135575",
+      "color": "Pink",
+      "price": 96523.35,
+      "city": "San Angelo",
+      "state": "Texas",
+      "postal": 76905,
+      "longitude": -100.39,
+      "latitude": 31.4647,
+      "description": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius.",
+      "seller": "hgelardi5",
+      "seller-name": "Hilarius Gelardi",
+      "image": "https://images.unsplash.com/photo-1527989212891-7a76e4991927?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg6.jpg"
+    },
+    {
+      "id": 7,
+      "make_id": "Mercury",
+      "model": "Mariner",
+      "year": 2009,
+      "vin": "WAUGF98KX9A692750",
+      "color": "Blue",
+      "price": 191571.59,
+      "city": "Louisville",
+      "state": "Kentucky",
+      "postal": 40266,
+      "longitude": -85.6768,
+      "latitude": 38.189,
+      "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",
+      "seller": "bclipsham6",
+      "seller-name": "Booth Clipsham",
+      "image": "https://images.unsplash.com/photo-1514950568576-31f7200d5b72?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg7.jpg"
+    },
+    {
+      "id": 8,
+      "make_id": "Hummer",
+      "model": "H3T",
+      "year": 2010,
+      "vin": "1N6AA0CH3DN653723",
+      "color": "Indigo",
+      "price": 87310.89,
+      "city": "Olympia",
+      "state": "Washington",
+      "postal": 98506,
+      "longitude": -122.87,
+      "latitude": 47.1042,
+      "description": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.",
+      "seller": "mamberger7",
+      "seller-name": "Michele Amberger",
+      "image": "https://images.unsplash.com/photo-1537166373494-05097c27a525?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg8.jpg"
+    },
+    {
+      "id": 9,
+      "make_id": "Lexus",
+      "model": "LS",
+      "year": 1991,
+      "vin": "2C3CDXFG7FH373706",
+      "color": "Turquoise",
+      "price": 86117.44,
+      "city": "Houston",
+      "state": "Texas",
+      "postal": 77245,
+      "longitude": -95.4342,
+      "latitude": 29.834,
+      "description": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "seller": "lkleinbaum8",
+      "seller-name": "Lawrence Kleinbaum",
+      "image": "https://images.unsplash.com/photo-1510359609841-ca83daddf94e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg9.jpg"
+    },
+    {
+      "id": 10,
+      "make_id": "Nissan",
+      "model": "Sentra",
+      "year": 2011,
+      "vin": "1G4GF5G38EF682104",
+      "color": "Purple",
+      "price": 28100.03,
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "postal": 89160,
+      "longitude": -114.9721,
+      "latitude": 35.9279,
+      "description": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "seller": "cbremmell9",
+      "seller-name": "Crystie Bremmell",
+      "image": "https://images.unsplash.com/photo-1530227825882-5893f2425e14?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEzMjA3NH0",
+      "image_thumb": "./imgas/CarImg10.jpg"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hunger Games",
+      "authors": "Suzanne Collins",
+      "description": "Winning will make you famous. Losing means certain death.The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.",
+      "edition": "",
+      "format": "Hardcover",
+      "num_pages": 374,
+      "rating": 4.33,
+      "rating_count": 5519135,
+      "review_count": 160706,
+      "genres": "Young Adult, Fiction, Science Fiction, Dystopia, Fantasy, Science Fiction",
+      "genre_list": "Young Adult,Fiction,Science Fiction,Dystopia,Fantasy",
+      "image_url": "./imgas/bookImg1.jpg",
+      "Quote1": "“You don’t forget the face of the person who was your last hope.”",
+      "Quote2": "“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”",
+      "Quote3": "“May the odds be ever in your favor!”"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "authors": "J.K. Rowling",
+      "description": "There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named---a threat that neither the magical government nor the authorities at Hogwarts can stop.As the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.His fate depends on them alll.(back cover)",
+      "edition": "US Edition",
+      "format": "Paperback",
+      "num_pages": 870,
+      "rating": 4.48,
+      "rating_count": 2041594,
+      "review_count": 33264,
+      "genres": "Fantasy, Young Adult, Fiction",
+      "genre_list": "Fantasy,Young Adult,Fiction",
+      "image_url": "./imgas/bookImg2.jpg",
+      "Quote1": "“Wit beyond measure is man’s greatest treasure.”",
+      "Quote2": "“Indifference and neglect often do much more damage than outright dislike.”",
+      "Quote3": "“Things we lose have a way of coming back to us in the end, if not always in the way we expect.”"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "authors": "Harper Lee",
+      "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+      "edition": "50th Anniversary",
+      "format": "Paperback",
+      "num_pages": 324,
+      "rating": 4.27,
+      "rating_count": 3745197,
+      "review_count": 79450,
+      "genres": "Classics, Fiction, Historical, Historical Fiction, Academic, School",
+      "genre_list": "Classics,Fiction,Historical,Historical Fiction,Academic,School",
+      "image_url": "./imgas/bookImg3.jpg",
+      "Quote1": "“Until I feared I would lose it, I never loved to read. One does not love breathing.”",
+      "Quote2": "“People generally see what they look for, and hear what they listen for.”",
+      "Quote3": "“The one thing that doesn't abide by majority rule is a person's conscience.”"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "authors": "Jane Austen",
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work \"her own darling child\" and its vivacious heroine, Elizabeth Bennet, \"as delightful a creature as ever appeared in print.\" The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "edition": "Modern Library Classics, USA / CAN",
+      "format": "Paperback",
+      "num_pages": 279,
+      "rating": 4.25,
+      "rating_count": 2453620,
+      "review_count": 54322,
+      "genres": "Classics, Fiction, Romance",
+      "genre_list": "Classics,Fiction,Romance",
+      "image_url":"./imgas/bookImg4.jpg",
+      "Quote1": "“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”",
+      "Quote2": "“It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.”",
+      "Quote3": "“I must learn to be content with being happier than I deserve.”"
+    },
+    {
+      "id": 5,
+      "title": "Twilight",
+      "authors": "Stephenie Meyer",
+      "description": "About three things I was absolutely positive.First, Edward was a vampire.Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.",
+      "edition": "",
+      "format": "Paperback",
+      "num_pages": 498,
+      "rating": 3.58,
+      "rating_count": 4281268,
+      "review_count": 97991,
+      "genres": "Young Adult, Fantasy, Romance, Paranormal, Vampires, Fiction, Fantasy, Paranormal",
+      "genre_list": "Young Adult,Fantasy,Romance,Paranormal,Vampires,Fiction",
+      "image_url": "./imgas/bookImg5.jpg",
+      "Quote1": "“I like the night. Without the dark, we'd never see the stars.”",
+      "Quote2": "“I decided as long as I'm going to hell, I might as well do it thoroughly.”",
+      "Quote3": "“When life offers you a dream so far beyond any of your expectations, it’s not reasonable to grieve when it comes to an end.”"
+    },
+    {
+      "id": 6,
+      "title": "The Book Thief",
+      "authors": "Markus Zusak",
+      "description": "Trying to make sense of the horrors of World War II, Death relates the story of Liesel--a young German girl whose book-stealing and story-telling talents help sustain her family and the Jewish man they are hiding, as well as their neighbors.",
+      "edition": "First American Edition (US / CAN)",
+      "format": "Hardcover",
+      "num_pages": 552,
+      "rating": 4.36,
+      "rating_count": 1485632,
+      "review_count": 100821,
+      "genres": "Historical, Historical Fiction, Fiction, Young Adult",
+      "genre_list": "Historical,Historical Fiction,Fiction,Young Adult",
+      "image_url": "./imgas/bookImg6.jpg",
+      "Quote1": "“You don’t forget the face of the person who was your last hope.”",
+      "Quote2": "“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”",
+      "Quote3": "“May the odds be ever in your favor!”"
+    },
+    {
+      "id": 7,
+      "title": "The Chronicles of Narnia",
+      "authors": "C.S. Lewis",
+      "description": "Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is The Lion, the Witch and the Wardrobe, written in 1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as The Chronicles of Narnia.For the past fifty years, The Chronicles of Narnia have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, and the result is a fictional world whose scope has fascinated generations.This edition presents all seven books—unabridged—in one impressive volume. The books are presented here in chronlogical order, each chapter graced with an illustration by the original artist, Pauline Baynes. Deceptively simple and direct, The Chronicles of Narnia continue to captivate fans with adventures, characters, and truths that speak to readers of all ages, even fifty years after they were first published.",
+      "edition": "Reissue Edition",
+      "format": "Paperback",
+      "num_pages": 767,
+      "rating": 4.25,
+      "rating_count": 437829,
+      "review_count": 9439,
+      "genres": "Fantasy, Classics, Fiction, Young Adult, Childrens",
+      "genre_list": "Fantasy,Classics,Fiction,Young Adult,Childrens",
+      "image_url": "./imgas/bookImg7.jpg",
+      "Quote1": "“Wit beyond measure is man’s greatest treasure.”",
+      "Quote2": "“Indifference and neglect often do much more damage than outright dislike.”",
+      "Quote3": "“Things we lose have a way of coming back to us in the end, if not always in the way we expect.”"
+    },
+    {
+      "id": 8,
+      "title": "Animal Farm",
+      "authors": "George Orwell",
+      "description": "A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned –a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible.\nWhen Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell’s masterpiece have a meaning and message still ferociously fresh.",
+      "edition": "",
+      "format": "Paperback",
+      "num_pages": 122,
+      "rating": 3.9,
+      "rating_count": 2235084,
+      "review_count": 42156,
+      "genres": "Classics, Fiction, Science Fiction, Dystopia, Fantasy, Literature, Academic, School, Politics, Science Fiction, Novels, Academic, Read For School",
+      "genre_list": "Classics,Fiction,Science Fiction,Dystopia,Fantasy,Literature,Academic,School,Politics,Novels,Read For School",
+      "image_url": "./imgas/bookImg8.jpg",
+      "Quote1": "“Until I feared I would lose it, I never loved to read. One does not love breathing.”",
+      "Quote2": "“People generally see what they look for, and hear what they listen for.”",
+      "Quote3": "“The one thing that doesn't abide by majority rule is a person's conscience.”"
+    },
+    {
+      "id": 9,
+      "title": "Gone with the Wind",
+      "authors": "Margaret Mitchell",
+      "description": "Gone with the Wind is a novel written by Margaret Mitchell, first published in 1936. The story is set in Clayton County, Georgia, and Atlanta during the American Civil War and Reconstruction era. It depicts the struggles of young Scarlett O'Hara, the daughter of a well-to-do plantation owner, who must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea. A historical novel, the story is a Bildungsroman or coming-of-age story, with the title taken from a poem written by Ernest Dowson.",
+      "edition": "",
+      "format": "Paperback",
+      "num_pages": 1037,
+      "rating": 4.29,
+      "rating_count": 969181,
+      "review_count": 17452,
+      "genres": "Classics, Historical, Historical Fiction, Fiction, Romance, Historical",
+      "genre_list": "Classics,Historical,Historical Fiction,Fiction,Romance",
+      "image_url": "./imgas/bookImg9.jpg",
+      "Quote1": "“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”",
+      "Quote2": "“It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.”",
+      "Quote3": "“I must learn to be content with being happier than I deserve.”"
+    },
+    {
+      "id": 10,
+      "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+      "authors": "J.R.R. Tolkien",
+      "description": "This four-volume, boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).",
+      "edition": "Hobbit Movie Tie-in Boxed set",
+      "format": "Mass Market Paperback",
+      "num_pages": 1728,
+      "rating": 4.59,
+      "rating_count": 99793,
+      "review_count": 1652,
+      "genres": "Fantasy, Fiction, Classics",
+      "genre_list": "Fantasy,Fiction,Classics",
+      "image_url": "./imgas/bookImg10.jpg",
+      "Quote1": "“I like the night. Without the dark, we'd never see the stars.”",
+      "Quote2": "“I decided as long as I'm going to hell, I might as well do it thoroughly.”",
+      "Quote3": "“When life offers you a dream so far beyond any of your expectations, it’s not reasonable to grieve when it comes to an end.”"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    }
+  ]
+}

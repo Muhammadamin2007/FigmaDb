@@ -1,38 +1,189 @@
-.App {
+.navbar {
+  background-color: #002547;
+}
+body a {
+  text-decoration: none;
+}
+.navbar-nav p {
+  color: #FFFF;
+}
+
+.loremC {
+
+  background-color: #002547;
+
+}
+
+.loremP {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* identical to box height, or 26px */
+
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+
+  /* Cta */
+
+  color: #1D92FF;
+}
+
+.loremH1 {
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 140%;
+  /* or 84px */
+
+  text-transform: capitalize;
+
+  color: #FFFFFF;
+}
+
+.LoremP2 {
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  /* or 29px */
+
+  text-transform: capitalize;
+
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.LoremBtn {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+
+  text-transform: capitalize;
+
+  color: #FFFFFF;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.LoremBtn:hover {
+
+
+
+
+  background: #FFFFFF;
+  border-radius: 3px;
+}
+
+.loremP3 {
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  /* or 22px */
+
+  text-transform: capitalize;
+
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.twoH1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 39px;
+  line-height: 135%;
+  /* or 53px */
+
+  text-transform: capitalize;
+
+  color: #000000;
+
+}
+
+.twoP{
+  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+text-transform: capitalize;
+
+color: rgba(1, 7, 13, 0.7);
+}
+
+.twoPs{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+text-transform: capitalize;
+
+/* black */
+
+color: #01070D;
+
+opacity: 0.5;
+}
+
+
+.sitH1{
+  font-family: 'Poppins';
+font-style: normal; 
+font-weight: 600;
+font-size: 39px;
+line-height: 135%;
+/* or 53px */
+
+text-align: center;
+
+color: #000000;
+}
+
+
+.sitp{font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  
   text-align: center;
-}
+  
+  color: rgba(0, 0, 0, 0.7)}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+ .student{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .student:hover{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+    background-color: #002547;
   }
-  to {
-    transform: rotate(360deg);
-  }
-}
+  
